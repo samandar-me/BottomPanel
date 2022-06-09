@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JetpackBottomPanel</string>
+
+    <string name="scroll_item">scroll item %1$s</string>
+    <string name="start_panel_name">Start Panel</string>
+    <string name="center_panel_name">Center Panel</string>
+    <string name="end_panel_name">End Panel</string>
+    <string name="open_start_panel_button_text">Open Start Panel</string>
+    <string name="open_end_panel_button_text">Open End Panel</string>
+    <string name="close_panel_button_text">Close Panel</string>
+</resources>
